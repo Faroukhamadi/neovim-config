@@ -39,3 +39,4 @@ cmp.setup({
         ['<C-,>'] = cmp.mapping.confirm({ select = true }),
     }),
 })
+
