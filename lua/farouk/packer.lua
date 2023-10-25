@@ -66,5 +66,7 @@ return require('packer').startup(function(use)
     use('lewis6991/gitsigns.nvim')
     use('windwp/nvim-autopairs')
     use('windwp/nvim-ts-autotag')
+    use('nvim-lua/plenary.nvim')
+    use('nvim-pack/nvim-spectre')
 end)
 
