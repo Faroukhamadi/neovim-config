@@ -69,4 +69,3 @@ return require('packer').startup(function(use)
     use('nvim-lua/plenary.nvim')
     use('nvim-pack/nvim-spectre')
 end)
-
