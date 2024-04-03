@@ -68,4 +68,8 @@ return require('packer').startup(function(use)
     use('windwp/nvim-ts-autotag')
     use('nvim-lua/plenary.nvim')
     use('nvim-pack/nvim-spectre')
+    use {
+        "folke/trouble.nvim",
+        requires = "nvim-tree/nvim-web-devicons",
+    }
 end)
