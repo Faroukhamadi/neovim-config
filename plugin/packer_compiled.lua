@@ -90,6 +90,11 @@ _G.packer_plugins = {
     path = "/home/faroukhamadi/.local/share/nvim/site/pack/packer/start/copilot.vim",
     url = "https://github.com/github/copilot.vim"
   },
+  ["flash.nvim"] = {
+    loaded = true,
+    path = "/home/faroukhamadi/.local/share/nvim/site/pack/packer/start/flash.nvim",
+    url = "https://github.com/folke/flash.nvim"
+  },
   ["gitsigns.nvim"] = {
     loaded = true,
     path = "/home/faroukhamadi/.local/share/nvim/site/pack/packer/start/gitsigns.nvim",
